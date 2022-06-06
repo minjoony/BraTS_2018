@@ -1,0 +1,11 @@
+
+-----------START-----------
+
+------ Making dataset tensor ------
+Traceback (most recent call last):
+  File "unet2D.py", line 311, in <module>
+    label_tensor_list.append(temp_tensor)
+NameError: name 'label_tensor_list' is not defined
+
+------------END------------
+
